@@ -73,120 +73,120 @@
             <GameDBLocalizedString>      <LocID>PERK_NIGHT_OWL_DESCRIPTION</LocID>      <Text>Lavora più efficientemente durante la notte.</Text></GameDBLocalizedString>
 
             <!--TODO to be implemented -->
-            <GameDBLocalizedString>      <LocID>PERK_PLEASANT</LocID>                   <Text>Pleasant</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_PLEASANT_DESCRIPTION</LocID>       <Text>Gives "nice staff" modifier after interacting with patient.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_UNPLEASANT</LocID>                 <Text>Unpleasant</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_UNPLEASANT_DESCRIPTION</LocID>     <Text>Gives "mean staff" modifier after interacting with patient.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_CLEAN_FEET</LocID>                 <Text>Clean feet</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_CLEAN_FEET_DESCRIPTION</LocID>     <Text>Very clean shoes. Does not make the floor dirty.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_HARD_WORKER</LocID>                <Text>Hard worker</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_HARD_WORKER_DESCRIPTION</LocID>    <Text>Does not take free time breaks.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_LOYAL</LocID>                      <Text>Loyal</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_LOYAL_DESCRIPTION</LocID>          <Text>Takes 20% less salary when leveling up.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_DEPRESSED</LocID>                  <Text>Depressed</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_DEPRESSED_DESCRIPTION</LocID>      <Text>Gives "depressed" modifier to him/her self.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_HEDONIST</LocID>                   <Text>Hedonist</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_HEDONIST_DESCRIPTION</LocID>       <Text>Spends twice as much time enjoying food.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_PLEASANT</LocID>                   <Text>Simpatico</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_PLEASANT_DESCRIPTION</LocID>       <Text>Fornisce un modificatore "buon personale" dopo aver interagito con il paziente.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_UNPLEASANT</LocID>                 <Text>Antipatico</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_UNPLEASANT_DESCRIPTION</LocID>     <Text>Fornisce un modificatore "medio" dopo aver interagito con il paziente.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_CLEAN_FEET</LocID>                 <Text>Piedi puliti</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_CLEAN_FEET_DESCRIPTION</LocID>     <Text>Scarpe molto pulite. Non sporcano il pavimento.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_HARD_WORKER</LocID>                <Text>Gran lavoratore</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_HARD_WORKER_DESCRIPTION</LocID>    <Text>Non prende pause.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_LOYAL</LocID>                      <Text>Leale</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_LOYAL_DESCRIPTION</LocID>          <Text>Prende il 20% in meno di salario quando aumento di livello.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_DEPRESSED</LocID>                  <Text>Depresso</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_DEPRESSED_DESCRIPTION</LocID>      <Text>Fornisce un modificatore "depresso" a se stesso.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_HEDONIST</LocID>                   <Text>Edonista</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_HEDONIST_DESCRIPTION</LocID>       <Text>Trascorre il doppio del tempo assaporando il cibo.</Text>  </GameDBLocalizedString>
 
             <!-- Perks patient -->
-            <GameDBLocalizedString>      <LocID>PERK_COOPERATIVE</LocID>                <Text>Cooperative</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_COOPERATIVE_DESCRIPTION</LocID>    <Text>Speeds up procedures.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_AGGRESSIVE</LocID>                 <Text>Aggressive</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_AGGRESSIVE_DESCRIPTION</LocID>     <Text>Interrupts procedures.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_INSPIRATOR</LocID>              	<Text>Motivator</Text>  </GameDBLocalizedString>
-           	<GameDBLocalizedString>      <LocID>PERK_INSPIRATOR_DESCRIPTION</LocID>   	<Text>Improves mood of people around.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_SHAMELESS</LocID>              	<Text>Shameless</Text>  </GameDBLocalizedString>
-           	<GameDBLocalizedString>      <LocID>PERK_SHAMELESS_DESCRIPTION</LocID>   	<Text>Is likely to reveal delicate symptoms.</Text>  </GameDBLocalizedString>
-           	<GameDBLocalizedString>      <LocID>PERK_MEDICAL_EDUCATION</LocID>          <Text>Medical education</Text>  </GameDBLocalizedString>
-           	<GameDBLocalizedString>      <LocID>PERK_MEDICAL_EDUCATION_DESCRIPTION</LocID><Text>Can help doctor uncover symptoms.</Text>  </GameDBLocalizedString>
-        	<GameDBLocalizedString>      <LocID>PERK_FOREIGNER</LocID>              	<Text>Tourist</Text>  </GameDBLocalizedString>
-           	<GameDBLocalizedString>      <LocID>PERK_FOREIGNER_DESCRIPTION</LocID>  	<Text>Does not speak native language. Slower communication.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_DEMOTIVATOR</LocID>                <Text>Annoying</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_DEMOTIVATOR_DESCRIPTION</LocID>    <Text>Decreases mood of people around.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_SLOW</LocID>                		<Text>Slow</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_SLOW_DESCRIPTION</LocID>     		<Text>Moves much slower.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_FAST</LocID>                		<Text>Fast</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_FAST_DESCRIPTION</LocID>     		<Text>Moves much faster.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_SHY</LocID>            			<Text>Shy</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_SHY_DESCRIPTION</LocID>			<Text>Is likely to hide delicate symptoms</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_COOPERATIVE</LocID>                <Text>Cooperativo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_COOPERATIVE_DESCRIPTION</LocID>    <Text>Velocizza le procedure.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_AGGRESSIVE</LocID>                 <Text>Aggressivo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_AGGRESSIVE_DESCRIPTION</LocID>     <Text>Blocca le procedure.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_INSPIRATOR</LocID>              	<Text>Motivatore</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_INSPIRATOR_DESCRIPTION</LocID>   	<Text>Migliora l'umore delle persone circostanti.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_SHAMELESS</LocID>              	<Text>Sfacciato</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_SHAMELESS_DESCRIPTION</LocID>   	<Text>È probabile che sveli sintomi delicati.</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_MEDICAL_EDUCATION</LocID>          <Text>Conoscenza medica/Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_MEDICAL_EDUCATION_DESCRIPTION</LocID><Text>Può aiutare il medico a scoprire i sintomi.</Text>  </GameDBLocalizedString>
+        	<GameDBLocalizedString>      <LocID>PERK_FOREIGNER</LocID>              	<Text>Turista</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_FOREIGNER_DESCRIPTION</LocID>  	<Text>Non parla la lingua madre. Comunicazione più lenta.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_DEMOTIVATOR</LocID>                <Text>Fastidioso</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_DEMOTIVATOR_DESCRIPTION</LocID>    <Text>Abbassa l'umore delle persone circostanti.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_SLOW</LocID>                		<Text>Lento</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_SLOW_DESCRIPTION</LocID>     		<Text>Cammina molto lentamente..</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_FAST</LocID>                		<Text>Veloce</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_FAST_DESCRIPTION</LocID>     		<Text>Cammina molto velocemente.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_SHY</LocID>            			<Text>Timido</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_SHY_DESCRIPTION</LocID>			<Text>È probabile che nasconda i sintomi delicati.</Text>  </GameDBLocalizedString>
 
             <!--TODO to be implemented -->
-            <GameDBLocalizedString>      <LocID>PERK_PIRATE</LocID>                     <Text>Pirate</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_PIRATE_DESCRIPTION</LocID>         <Text>Does not pay for anything</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_PIRATE</LocID>                     <Text>Pirata</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_PIRATE_DESCRIPTION</LocID>         <Text>Non paga nulla</Text>  </GameDBLocalizedString>
 
             <!-- Need names -->
-            <GameDBLocalizedString>      <LocID>NEED_REST</LocID>                       <Text>Rest</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NEED_REST_DESC</LocID>                  <Text>Employees need to take a break a couple of times every day.\n\nIf rest level drops below two stars, it will start to negatively affect the performance of the employee.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_REST</LocID>                       <Text>Riposo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_REST_DESC</LocID>                  <Text>I dipendenti devono fare una pausa un paio di volte al giorno.\n\nSe il livello di riposo scende sotto le due stelle, inizierà a influire negativamente sulle prestazioni del dipendente.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>NEED_HUNGER_STAFF</LocID>               <Text>Hunger</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NEED_HUNGER_STAFF_DESC</LocID>          <Text>Employees need to have access to water and food and ideally will eat a proper lunch in common room every day.\n\nIf hunger level drops below two stars, it will start to negatively affect the performance of the employee.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_HUNGER_STAFF</LocID>               <Text>Affamato</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_HUNGER_STAFF_DESC</LocID>          <Text>I dipendenti devono avere accesso all'acqua e al cibo e, idealmente, pranzeranno ogni giorno nella sala comune.\n\nSe il livello della fame scende sotto le due stelle, inizierà a influire negativamente sulle prestazioni del dipendente.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>NEED_HUNGER_PATIENTS</LocID>            <Text>Hunger</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NEED_HUNGER_PATIENTS_DESC</LocID>       <Text>Patients need to have access to water or a snack if they're waiting long.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_HUNGER_PATIENTS</LocID>            <Text>Affamato</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_HUNGER_PATIENTS_DESC</LocID>       <Text>I pazienti devono avere accesso all'acqua o uno spuntino se stanno aspettando a lungo.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>NEED_BLADDER</LocID>                    <Text>Bladder</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NEED_BLADDER_DESC</LocID>               <Text>Restrooms should be available on every floor.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_BLADDER</LocID>                    <Text>Vescica</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_BLADDER_DESC</LocID>               <Text>I bagni dovrebbero essere disponibili su ogni piano.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>NEED_DISCOMFORT</LocID>                 <Text>Discomfort</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NEED_DISCOMFORT_DESC</LocID>            <Text>The level of pain and discomfort caused by symptoms, examinations and treatments.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_DISCOMFORT</LocID>                 <Text>Disagio</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_DISCOMFORT_DESC</LocID>            <Text>Il livello di dolore e disagio causato da sintomi, esami e trattamenti.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>NEED_SATISFACTION</LocID>               <Text>Satisfaction</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NEED_SATISFACTION_DESC</LocID>          <Text>The overall satisfaction influenced by needs, other people and environment.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_SATISFACTION</LocID>               <Text>Soddisfazione</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NEED_SATISFACTION_DESC</LocID>          <Text>La soddisfazione complessiva è influenzata dai bisogni, dalle altre persone e dall'ambiente.</Text>  </GameDBLocalizedString>
 
             <!-- Satisfaction modifiers -->
-            <GameDBLocalizedString>      <LocID>SAT_MOD_COULDNT_SIT</LocID>             <Text>couldn't sit</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_LONG_WAIT</LocID>               <Text>long wait</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_SHORT_WAIT</LocID>              <Text>short wait</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_DIRTY_ENVIRONMENT</LocID>       <Text>dirty floor</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_WAITED_FOR_WC</LocID>           <Text>waited for wc</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_BORED</LocID>                   <Text>bored</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_COULDNT_WASH_HANDS</LocID>      <Text>couldn't wash hands</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_WAITED_FOR_FOOD</LocID>         <Text>waited for food</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_WRONG_DIAG_LAST_TIME</LocID>    <Text>wrongly diagnosed</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_NICE_ENVIRONMENT</LocID>        <Text>nice environment</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_NICE_DOCTOR</LocID>             <Text>nice doctor</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_GOOD_BOSS</LocID>               <Text>good boss</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_NO_BOSS</LocID>                 <Text>unattended</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_HAS_BOSS</LocID>                <Text>has boss</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_INSTIPRATOR</LocID>             <Text>inspired</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_DEMOTIVATOR</LocID>             <Text>annoyed</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_PATIENT_CURED</LocID>           <Text>treated</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_FIRED</LocID>                   <Text>fired</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_TOILET_USED</LocID>             <Text>need reduced</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_TOILET_NOT_USED</LocID>         <Text>need critical</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_FOOD_EATEN</LocID>              <Text>belly filled</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_FOOD_NOT_EATEN</LocID>          <Text>hungry</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_BOREDOM_REDUCED</LocID>         <Text>entertained</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_RESTED</LocID>                  <Text>rested</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_TIRED</LocID>                   <Text>tired</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_COMFORTABLE</LocID>             <Text>comfortable</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_DISCOMFORTABLE</LocID>          <Text>uncomfortable</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_HAD_LUNCH_STANDING</LocID>      <Text>standing lunch</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_HAD_LUNCH</LocID>               <Text>proper lunch</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_ROUGH_NIGHT</LocID>              <Text>rough night</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_UNRELEASED</LocID>              <Text>unreleased</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_GOING_HOME</LocID>              <Text>going home</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_COULDNT_SIT</LocID>             <Text>non potevo sedermi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_LONG_WAIT</LocID>               <Text>attesa lunga</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_SHORT_WAIT</LocID>              <Text>attesa breve</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_DIRTY_ENVIRONMENT</LocID>       <Text>pavimento sporco</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_WAITED_FOR_WC</LocID>           <Text>aspettato per il bagno</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_BORED</LocID>                   <Text>annoiato</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_COULDNT_WASH_HANDS</LocID>      <Text>non potevo lavarmi le mani</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_WAITED_FOR_FOOD</LocID>         <Text>aspettato per il cibo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_WRONG_DIAG_LAST_TIME</LocID>    <Text>disgnosi sbagliata</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_NICE_ENVIRONMENT</LocID>        <Text>bell'ambiente</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_NICE_DOCTOR</LocID>             <Text>buon dottore</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_GOOD_BOSS</LocID>               <Text>bravo capo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_NO_BOSS</LocID>                 <Text>incustodito</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_HAS_BOSS</LocID>                <Text>ha il capo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_INSTIPRATOR</LocID>             <Text>ispirato</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_DEMOTIVATOR</LocID>             <Text>infastidito</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_PATIENT_CURED</LocID>           <Text>trattato</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_FIRED</LocID>                   <Text>licenziato</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_TOILET_USED</LocID>             <Text>bisogno ridotto</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_TOILET_NOT_USED</LocID>         <Text>bisogno critico</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_FOOD_EATEN</LocID>              <Text>pancia piena</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_FOOD_NOT_EATEN</LocID>          <Text>affamato</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_BOREDOM_REDUCED</LocID>         <Text>intrattenuto</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_RESTED</LocID>                  <Text>riposato</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_TIRED</LocID>                   <Text>stanco</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_COMFORTABLE</LocID>             <Text>comodo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_DISCOMFORTABLE</LocID>          <Text>scomodo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_HAD_LUNCH_STANDING</LocID>      <Text>pranzo in piedi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_HAD_LUNCH</LocID>               <Text>pranzo adeguato</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_ROUGH_NIGHT</LocID>              <Text>notte dura</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_UNRELEASED</LocID>              <Text>bloccato</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_GOING_HOME</LocID>              <Text>andando a casa</Text>  </GameDBLocalizedString>
 
             <!--TODO to be implemented -->
-            <GameDBLocalizedString>      <LocID>SAT_MOD_COULDNT_DRY_HANDS</LocID>       <Text>couldn't dry hands</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_UGLY_ENVIRONMENT</LocID>        <Text>ugly environment</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_CARED_FOR</LocID>               <Text>fast prescribing</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_NEGLECTED</LocID>               <Text>slow prescribing</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_BIG_COMFORT</LocID>             <Text>has modern bed</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_NICE_STAFF</LocID>              <Text>nice staff</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_MEAN_STAFF</LocID>              <Text>mean staff</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_SHOCKED</LocID>                 <Text>shocked</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_PRODUCTIVE</LocID>              <Text>productive</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_DOUBTFUL</LocID>                <Text>doubtful</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_DEPRESSED</LocID>               <Text>depressed</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SAT_MOD_HUNGOVER</LocID>                <Text>hungover</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_COULDNT_DRY_HANDS</LocID>       <Text>non potevo asciugare le mani</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_UGLY_ENVIRONMENT</LocID>        <Text>pessimo ambiente</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_CARED_FOR</LocID>               <Text>prescrizioni rapide</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_NEGLECTED</LocID>               <Text>prescrizioni lente</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_BIG_COMFORT</LocID>             <Text>ha un letto moderno</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_NICE_STAFF</LocID>              <Text>buon personale</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_MEAN_STAFF</LocID>              <Text>membri del personale</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_SHOCKED</LocID>                 <Text>impressionare</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_PRODUCTIVE</LocID>              <Text>produttivo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_DOUBTFUL</LocID>                <Text>dubbioso</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_DEPRESSED</LocID>               <Text>depresso</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_HUNGOVER</LocID>                <Text>sbronzo</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>SAT_MOD_NONE</LocID>                    <Text>no modifiers</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DISC_DISCOMFORT_NONE</LocID>            <Text>no discomfort</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DISC_DISCOMFORT_UNKNOWN</LocID>         <Text>unknown</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAT_MOD_NONE</LocID>                    <Text>nessun modificatore</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DISC_DISCOMFORT_NONE</LocID>            <Text>nessun sconforto</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DISC_DISCOMFORT_UNKNOWN</LocID>         <Text>sconosciuto</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>GENDER_MALE</LocID>                     <Text>Male</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>GENDER_FEMALE</LocID>                   <Text>Female</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GENDER_MALE</LocID>                     <Text>Uomo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GENDER_FEMALE</LocID>                   <Text>Donna</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>HAZARD_UNKNOWN</LocID>                  <Text>unknown hazard</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HAZARD_NONE</LocID>                     <Text>no hazard</Text>  </GameDBLocalizedString>
